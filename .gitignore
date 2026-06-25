@@ -1,0 +1,18 @@
+# Scraped theme and demo directories (not used by the website)
+smiliz-demo.pbminfotech.com/
+pbminfotech.com/
+preview.themeforest.net/
+public-assets.envato-static.com/
+static.cloudflareinsights.com/
+consent.cookiebot.com/
+consentcdn.cookiebot.com/
+fonts.googleapis.com/
+fonts.gstatic.com/
+
+# Temporary / Scratch scripts
+scratch/
+*.py
+*.txt
+.tempmediaStorage/
+.idea/
+.vscode/
