@@ -9,6 +9,18 @@ consentcdn.cookiebot.com/
 fonts.googleapis.com/
 fonts.gstatic.com/
 
+# Node and Environment
+node_modules/
+.env
+data/
+uploads/
+server.js
+database.js
+views/
+public/
+package.json
+package-lock.json
+
 # Temporary / Scratch scripts
 scratch/
 *.py
@@ -16,3 +28,4 @@ scratch/
 .tempmediaStorage/
 .idea/
 .vscode/
+
